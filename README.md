@@ -15,3 +15,6 @@ Java - Threads.
 
 
 Please refer to: [PDF Manual](https://github.com/pranay22/CSMA-CD/blob/master/kn1_groupA_CSMA-CD.pdf)  for more details.
+
+
+For instant executaion, download the .jar file an run it!
