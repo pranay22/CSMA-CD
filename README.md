@@ -1,6 +1,9 @@
 # CSMA-CD
 Visualization of CSMA-CD Protocol (Done as Communication Networks 1 project at TU Darmstadt)
 
+Done by: Pranay Sarkar.
+
+
 PROJECT DESCRIPTION:  
 CSMA/CD is a media access control, used in data link layer (mostly in local area networking
 and Ethernet topology).
