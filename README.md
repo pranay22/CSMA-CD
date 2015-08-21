@@ -9,3 +9,6 @@ domain. That is one of main reason for which media access protocols are used.
 
 LANGAGES USED:  
 Java - Threads.
+
+
+Please refer to: [PDF Manual](https://github.com/pranay22/CSMA-CD/blob/master/kn1_groupA_CSMA-CD.pdf)  for more details.
